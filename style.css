@@ -1,7 +1,10 @@
 div{
     text-align: center;
     box-sizing: border-box;
-    font-size: large;
+    font-size: 100px;
     background-color: aquamarine;
     color: red;
+    margin: auto;
+    width: 400px;
+
 }
