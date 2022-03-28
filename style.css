@@ -1,10 +1,12 @@
 div{
     text-align: center;
-    box-sizing: border-box;
     font-size: 100px;
-    background-color: aquamarine;
-    color: red;
+    color: orange;
+    font-family: fantasy;
     margin: auto;
     width: 400px;
 
+}
+*{
+    background-color: aquamarine;
 }
