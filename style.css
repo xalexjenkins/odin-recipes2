@@ -1,0 +1,12 @@
+*{
+    background-color: aquamarine;
+}
+
+.title{
+background-color: black;
+color: white;
+border: 20px;
+margin: auto;
+text-align: center;
+padding: 40px;
+}
